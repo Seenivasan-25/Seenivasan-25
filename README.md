@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=softRect&color=auto&height=150&section=header&text=SEENIVASAN%20V&fontSize=70&animation=twinkle" />
+  <img src="https://capsule-render.vercel.app/api?type=softRect&color=0:00C9FF,100:92FE9D&height=150&section=header&text=Seenivasan%20V&fontSize=70&fontColor=ffffff&animation=twinkle" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;ML+Engineer;System+Designer;Full+Stack+Developer;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;ML+Engineer;System+Designer;Full+Stack+Developer;Problem+Solver" />
 </p>
-
 ---
 
 ### 🚀 Tech Arsenal in Motion
