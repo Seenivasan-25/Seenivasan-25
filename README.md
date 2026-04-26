@@ -33,3 +33,23 @@
 <a href="https://www.instagram.com/wanderer_06_01"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/Seenivasan-25"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
+### 📊 Real-time Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seenivasan-25&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seenivasan-25&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seenivasan-25&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seenivasan-25&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Seenivasan-25&theme=tokyonight&no-bg=true&margin-w=15" alt="trophy" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Seenivasan-25&color=blueviolet&style=flat-square&label=LIVE+VISITORS" alt="Views" />
+</p>
