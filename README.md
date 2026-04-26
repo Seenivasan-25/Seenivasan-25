@@ -2,7 +2,7 @@
 # <p align="center"> <img src="https://capsule-render.vercel.app/api?type=softRect&color=auto&height=150&section=header&text=SEENIVASAN%20V&fontSize=60&animation=twinkle" /> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D7CF2&center=true&vCenter=true&width=500&lines=AI+Engineer+%2B+DSA+%2B+System+Design;Frontend+Engineer;Backend+Developer;Problem+Solver" />
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Backend%20Developer&fontSize=90)
 </p>
 
 ---
