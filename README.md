@@ -1,8 +1,5 @@
-# <p align="center"> <img src="https://capsule-render.vercel.app/api?
-# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=softRect&color=auto&height=150&section=header&text=SEENIVASAN%20V&fontSize=60&animation=twinkle" /> </p>
-
 <p align="center">
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Backend%20Developer&fontSize=90)
+  <img src="https://capsule-render.vercel.app/api?type=softRect&color=auto&height=150&section=header&text=SEENIVASAN%20V&fontSize=60&animation=twinkle" />
 </p>
 
 ---
@@ -14,16 +11,17 @@
     <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,react,vite,fastapi,jenkins,ruby,github,html,css,js,php,mongodb,express,nodejs,linux,vscode,figma,postman,mysql,py,vim" />
   </a>
 </p>
+
 ---
 
 ### ⚡ Quick Bio
 > Passionate developer building intelligent systems. Currently exploring the intersection of **AI Distractor Suppression** and scalable architecture.
 
-
 - 🌱 **Learning:** Cloud Infrastructure & System Design
 - 💬 **Ask me about:** JavaScript, Python, or Web Design
 
 ---
+
 ## 🌐 Socials
 
 <p align="left">
