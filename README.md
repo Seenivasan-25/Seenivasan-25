@@ -1,4 +1,5 @@
-# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=glitch&color=auto&height=120&section=header&text=SEENIVASAN%20V&fontSize=70&fontAlignY=40" /> </p>
+# <p align="center"> <img src="https://capsule-render.vercel.app/api?
+# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=softRect&color=auto&height=150&section=header&text=SEENIVASAN%20V&fontSize=60&animation=twinkle" /> </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D7CF2&center=true&vCenter=true&width=500&lines=AI+Engineer+%2B+DSA+%2B+System+Design;Frontend+Engineer;Backend+Developer;Problem+Solver" />
@@ -7,27 +8,30 @@
 ---
 
 ### 🚀 Tech Arsenal in Motion
-<p align="center">
-  <marquee behavior="alternate" scrollamount="8">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  </marquee>
-</p>
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,react,vite,fastapi,jenkins,ruby,github,html,css,js,php,mongodb,express,nodejs,linux,vscode,figma,postman,mysql,py,vim" />
+  </a>
+</p>
 ---
 
 ### ⚡ Quick Bio
 > Passionate developer building intelligent systems. Currently exploring the intersection of **AI Distractor Suppression** and scalable architecture.
 
-- 🔭 **Current Project:** [Mechanism of distractor suppression](https://github.com/Seenivasan-25/Opticalflow_analysis)
+
 - 🌱 **Learning:** Cloud Infrastructure & System Design
 - 💬 **Ask me about:** JavaScript, Python, or Web Design
 
 ---
+## 🌐 Socials
+
+<p align="left">
+<a href="mailto:vrss1984@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/seenivasan-vellaisamy-a9409b290/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/wanderer_06_01"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://github.com/Seenivasan-25"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ### 📊 Real-time Analytics
 <p align="center">
