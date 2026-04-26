@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=softRect&color=auto&height=150&section=header&text=SEENIVASAN%20V&fontSize=60&animation=twinkle" />
+  <img src="https://capsule-render.vercel.app/api?type=softRect&color=auto&height=150&section=header&text=SEENIVASAN%20V&fontSize=70&animation=twinkle" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=subheader&text=AI%20Engineer%20|%20ML%20Engineer%20|%20System%20Designer%20|%20Full%20Stack%20Developer%20|%20Problem%20Solver&fontSize=25&animation=fadeIn" />
 </p>
 
 ---
