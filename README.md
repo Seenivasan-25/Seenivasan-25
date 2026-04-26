@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=subheader&text=AI%20Engineer%20|%20ML%20Engineer%20|%20System%20Designer%20|%20Full%20Stack%20Developer%20|%20Problem%20Solver&fontSize=25&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;ML+Engineer;System+Designer;Full+Stack+Developer;Problem+Solver" />
 </p>
 
 ---
@@ -33,14 +33,4 @@
 <a href="https://linkedin.com/in/seenivasan-vellaisamy-a9409b290/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/wanderer_06_01"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/Seenivasan-25"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
-### 📊 Real-time Analytics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Seenivasan-25&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Seenivasan-25&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Seenivasan-25&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
